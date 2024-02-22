@@ -1,7 +1,7 @@
 //ldouglas
 //version 1.0
 //February 20, 2024
-//This is not the clone.
+//This is the clone of the original
 
 #include <Arduino.h>
 #include <Adafruit_GFX.h>
