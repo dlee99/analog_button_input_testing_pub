@@ -1,4 +1,5 @@
 //ldouglas
+//version 1.0
 
 #include <Arduino.h>
 #include <Adafruit_GFX.h>
